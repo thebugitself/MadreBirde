@@ -28,7 +28,7 @@ public class BirdScript : MonoBehaviour
 
         if(birdStillAlive == false)
         {
-            myRigidbody.transform.Rotate(new Vector3(0, 50, 50) * Time.deltaTime) ;
+            myRigidbody.transform.Rotate(new Vector3(0, 50, 50)) ;
             logic.highScoreShow();
         }
         if (birdStillAlive)
