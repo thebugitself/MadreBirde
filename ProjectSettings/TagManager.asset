@@ -10,6 +10,7 @@ TagManager:
   - bird
   - highscore
   - birdo
+  - menu
   layers:
   - Default
   - TransparentFX
