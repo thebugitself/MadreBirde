@@ -1,4 +1,3 @@
 # MadreBirde_Project
 
-awkokoawkoawkoawko
-projek bercanda
+awkokoawkoawkoawko,  cuma projek bercanda
